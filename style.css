@@ -1,0 +1,34 @@
+.header{
+    background-color: #AF9AB2;
+    padding: 10px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#main{
+    background-color: #820B8A;
+    padding-top:50px;
+    padding-bottom: 88px;
+    color:rgb(221, 237, 6);
+}
+#copy-rightfooter{
+    background-color: #672A4E;
+    padding-bottom:20px;
+    position:fixed;
+    bottom :0;
+    width:100%;
+    color:rgb(255, 213, 0);
+    text-shadow: 5px 0x 5px  rgb(255, 255, 255);
+  
+}
+#sound,#accuracy{
+    letter-spacing: 2px;
+    font-weight: bolder;
+}
+body{
+    
+        font-family: "Cedarville Cursive", cursive;
+        font-weight: 400;
+        font-style: normal;
+       
+        
+      
+}
